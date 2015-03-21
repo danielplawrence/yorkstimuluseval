@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+ <html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="squares.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+        <script src="image_exitscript.js"></script>
+        <script type="text/javascript" src="sessvars.js"></script>
+</head>
+ 
+<body>
+
+ <h2>Now please answer the following questions</h2>
+                    
+        <form id="form1">  
+        
+            <fieldset><legend>Contact form</legend>
+                <p class="first">
+                    <label for="name">Please provide your full name</label>
+                    <input type="text" name="name" id="name" size="30" />
+                </p>
+                <p>
+                    <label for="year">Please select your date of birth</label>
+                    <input type="text" id="datepicker"/>
+                </p>
+                 <p>
+
+                    <label for="gender">Please indicate your gender</label>
+                    <select name="gender" id="gender">
+                            <option value="0">Please select</option>
+                             <option value="1">Female</option>
+                            <option value="2">Male</option>
+        
+                         </select>
+                <p>
+                    <label for="web">Please indicate your highest level of education</label>
+                     <select name="education" id="education">
+                                <option value="0">Please select</option>
+                            <option value="1">Finished secondary school</option>
+                             <option value="2">A Levels</option>
+                            <option value="3">BTech/NVQ</option>
+                            <option value="4">Undergraduate degree</option>
+                            <option value="5">Postgraduate degree (MA/MSc/PhD)</option>
+                            <option value="6">Postgraduate degree (Professional training)</option>
+                    </select>
+                </p>            
+                <p>
+                    <label for="web">Please enter your occupation</label>
+                    <input type="text" name="occupation" id="occupation" size="30" />
+                </p>       
+                 <p>
+                    <label for="web">Please enter your parents' occupation(s)</label>
+                    <input type="text" name="parentsoccupation" id="parentsoccupation" size="30" />
+                </p>  
+                <p>
+                    <label for="web">Are all of your family from York?</label>
+                     <select name="family" id="family">
+                         <option value="0">Please select</option>
+                            <option value="1">My parents and grandparents are from York</option>
+                             <option value="2">My parents are from York</option>
+                            <option value="3">My parents are not from York</option>
+                    </select>
+                </p>  
+            </fieldset>
+            <fieldset>                                                                          
+            </fieldset>        
+
+             <p class="submit"><button id="send" type="button">Finish</button></p>         
+                        
+        </form> 
+ 
+</body>
+</html>
