@@ -1,4 +1,4 @@
-yorkperceptiontasks
+yorkstimuluseval
 ===================
 
-Speech perception tasks for my doctoral project on sound change in York.
+Stimulus evaluation tasks for my doctoral project on sound change in York.
