@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="squares.css" type="text/css" media="screen" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="sessvars.js"></script>
+                <script type="text/javascript" src="imageratingsscript.js"></script>
+                <script src="http://fgnass.github.io/spin.js/spin.js"></script>
+<script src="http://fgnass.github.io/spin.js/spin.min.js"></script>
+</head>
+ 
+<body>
+
+
+        <form id="debrief">
+        <div class="frame" id="ratings">
+            <label for="word">What word did you hear?</label>
+              <input id="word" name="word" type="text"/>
+            <label for="quality">How would you rate the quality of this stimulus?</label>
+           <p> Poor<input id="quality" name = "quality" type="range" style="display:inline-block; vertical-align:middle" /> Excellent</p>
+            <label for="comments">Any other comments about this item?</label>
+            <input id="comments" name="comments" type="text"/>
+             <button id="next" type="button">Next</button>
+        </div>
+        <p class="submit"></p>
+</form>
+</body>
+</html>

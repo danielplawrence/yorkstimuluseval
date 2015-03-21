@@ -1,0 +1,157 @@
+Daniel,Fri Mar 20 2015 20:57:35 GMT+0000 (GMT),0,images/M_O_MC_NL.png,M,O,M,N,768,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:36 GMT+0000 (GMT),1,images/M_Y_MC_L.png,M,Y,M,L,245,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:38 GMT+0000 (GMT),2,images/M_O_MC_NL.png,M,O,M,N,147,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:39 GMT+0000 (GMT),3,images/M_O_MC_L.png,M,O,M,L,51,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:40 GMT+0000 (GMT),4,images/M_O_MC_L.png,M,O,M,L,14,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:41 GMT+0000 (GMT),5,images/M_Y_WC_L.png,M,Y,W,L,11,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:42 GMT+0000 (GMT),6,images/M_O_MC_L.png,M,O,M,L,20,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:43 GMT+0000 (GMT),7,images/M_O_WC_L.png,M,O,W,L,15,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:44 GMT+0000 (GMT),8,images/M_Y_WC_L.png,M,Y,W,L,1,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:45 GMT+0000 (GMT),9,images/M_O_WC_L.png,M,O,W,L,36,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:46 GMT+0000 (GMT),10,images/M_O_WC_L.png,M,O,W,L,21,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:47 GMT+0000 (GMT),11,images/M_O_WC_L.png,M,O,W,L,15,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:48 GMT+0000 (GMT),12,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:49 GMT+0000 (GMT),13,images/M_O_WC_L.png,M,O,W,L,18,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:50 GMT+0000 (GMT),14,images/M_Y_WC_L.png,M,Y,W,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:51 GMT+0000 (GMT),15,images/M_O_MC_L.png,M,O,M,L,10,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:52 GMT+0000 (GMT),16,images/M_O_WC_L.png,M,O,W,L,16,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:53 GMT+0000 (GMT),17,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:54 GMT+0000 (GMT),18,images/M_O_MC_L.png,M,O,M,L,20,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:55 GMT+0000 (GMT),19,images/M_O_WC_L.png,M,O,W,L,16,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:56 GMT+0000 (GMT),20,images/M_O_WC_L.png,M,O,W,L,13,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:57 GMT+0000 (GMT),21,images/M_O_MC_L.png,M,O,M,L,21,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:58 GMT+0000 (GMT),22,images/M_O_MC_NL.png,M,O,M,N,14,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:57:59 GMT+0000 (GMT),23,images/M_O_MC_NL.png,M,O,M,N,11,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:00 GMT+0000 (GMT),24,images/M_O_MC_L.png,M,O,M,L,16,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:01 GMT+0000 (GMT),25,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:02 GMT+0000 (GMT),26,images/M_O_MC_L.png,M,O,M,L,2,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:03 GMT+0000 (GMT),27,images/M_O_MC_L.png,M,O,M,L,59,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:04 GMT+0000 (GMT),28,images/M_Y_WC_L.png,M,Y,W,L,83,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:06 GMT+0000 (GMT),29,images/M_O_WC_L.png,M,O,W,L,9,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:07 GMT+0000 (GMT),30,images/M_Y_WC_L.png,M,Y,W,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:08 GMT+0000 (GMT),31,images/M_O_WC_L.png,M,O,W,L,11,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:09 GMT+0000 (GMT),32,images/M_O_MC_L.png,M,O,M,L,79,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:10 GMT+0000 (GMT),33,images/M_O_WC_L.png,M,O,W,L,17,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:11 GMT+0000 (GMT),34,images/M_O_WC_L.png,M,O,W,L,14,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:12 GMT+0000 (GMT),35,images/M_O_WC_L.png,M,O,W,L,10,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:13 GMT+0000 (GMT),36,images/M_O_WC_L.png,M,O,W,L,19,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:14 GMT+0000 (GMT),37,images/M_O_MC_NL.png,M,O,M,N,15,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:15 GMT+0000 (GMT),38,images/M_Y_WC_L.png,M,Y,W,L,10,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:16 GMT+0000 (GMT),39,images/M_O_MC_L.png,M,O,M,L,4728,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:22 GMT+0000 (GMT),40,images/M_O_WC_L.png,M,O,W,L,48,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:23 GMT+0000 (GMT),41,images/M_O_WC_L.png,M,O,W,L,18,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:24 GMT+0000 (GMT),42,images/M_O_MC_L.png,M,O,M,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:25 GMT+0000 (GMT),43,images/M_O_MC_L.png,M,O,M,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:26 GMT+0000 (GMT),44,images/M_O_MC_L.png,M,O,M,L,18,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:27 GMT+0000 (GMT),45,images/M_O_MC_L.png,M,O,M,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:28 GMT+0000 (GMT),46,images/M_O_MC_L.png,M,O,M,L,11,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:29 GMT+0000 (GMT),47,images/M_O_WC_L.png,M,O,W,L,18,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:30 GMT+0000 (GMT),48,images/M_O_MC_L.png,M,O,M,L,14,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:31 GMT+0000 (GMT),49,images/M_O_MC_L.png,M,O,M,L,9,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:32 GMT+0000 (GMT),50,images/M_O_WC_L.png,M,O,W,L,18,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:33 GMT+0000 (GMT),51,images/M_O_MC_L.png,M,O,M,L,13,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:34 GMT+0000 (GMT),52,images/M_O_MC_NL.png,M,O,M,N,7,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:35 GMT+0000 (GMT),53,images/M_O_MC_NL.png,M,O,M,N,16,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:36 GMT+0000 (GMT),54,images/M_O_WC_L.png,M,O,W,L,12,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:37 GMT+0000 (GMT),55,images/M_O_WC_L.png,M,O,W,L,9,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:38 GMT+0000 (GMT),56,images/M_O_MC_NL.png,M,O,M,N,14,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:39 GMT+0000 (GMT),57,images/M_O_MC_NL.png,M,O,M,N,11,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:40 GMT+0000 (GMT),58,images/M_O_MC_NL.png,M,O,M,N,18,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+Daniel,Fri Mar 20 2015 20:58:41 GMT+0000 (GMT),59,images/M_O_MC_L.png,M,O,M,L,16,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH
+exitscript.js:6[
+Object
+, 
+Object
+, 
+Object
+, 
+Object
+, 
+Object
+, 
+Object
+, 
+Object
+, 
+Object
+]
+exitscript.js:7[
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+, 
+Array[5]
+]
+debriefscript.js:2,Daniel,Fri Mar 20 2015 20:57:35 GMT+0000 (GMT),0,images/M_O_MC_NL.png,M,O,M,N,768,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:36 GMT+0000 (GMT),1,images/M_Y_MC_L.png,M,Y,M,L,245,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:38 GMT+0000 (GMT),2,images/M_O_MC_NL.png,M,O,M,N,147,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:39 GMT+0000 (GMT),3,images/M_O_MC_L.png,M,O,M,L,51,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:40 GMT+0000 (GMT),4,images/M_O_MC_L.png,M,O,M,L,14,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:41 GMT+0000 (GMT),5,images/M_Y_WC_L.png,M,Y,W,L,11,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:42 GMT+0000 (GMT),6,images/M_O_MC_L.png,M,O,M,L,20,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:43 GMT+0000 (GMT),7,images/M_O_WC_L.png,M,O,W,L,15,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:44 GMT+0000 (GMT),8,images/M_Y_WC_L.png,M,Y,W,L,1,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:45 GMT+0000 (GMT),9,images/M_O_WC_L.png,M,O,W,L,36,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:46 GMT+0000 (GMT),10,images/M_O_WC_L.png,M,O,W,L,21,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:47 GMT+0000 (GMT),11,images/M_O_WC_L.png,M,O,W,L,15,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:48 GMT+0000 (GMT),12,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:49 GMT+0000 (GMT),13,images/M_O_WC_L.png,M,O,W,L,18,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:50 GMT+0000 (GMT),14,images/M_Y_WC_L.png,M,Y,W,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:51 GMT+0000 (GMT),15,images/M_O_MC_L.png,M,O,M,L,10,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:52 GMT+0000 (GMT),16,images/M_O_WC_L.png,M,O,W,L,16,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:53 GMT+0000 (GMT),17,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:54 GMT+0000 (GMT),18,images/M_O_MC_L.png,M,O,M,L,20,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:55 GMT+0000 (GMT),19,images/M_O_WC_L.png,M,O,W,L,16,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:56 GMT+0000 (GMT),20,images/M_O_WC_L.png,M,O,W,L,13,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:57 GMT+0000 (GMT),21,images/M_O_MC_L.png,M,O,M,L,21,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:58 GMT+0000 (GMT),22,images/M_O_MC_NL.png,M,O,M,N,14,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:57:59 GMT+0000 (GMT),23,images/M_O_MC_NL.png,M,O,M,N,11,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:00 GMT+0000 (GMT),24,images/M_O_MC_L.png,M,O,M,L,16,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:01 GMT+0000 (GMT),25,images/M_Y_WC_L.png,M,Y,W,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:02 GMT+0000 (GMT),26,images/M_O_MC_L.png,M,O,M,L,2,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:03 GMT+0000 (GMT),27,images/M_O_MC_L.png,M,O,M,L,59,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:04 GMT+0000 (GMT),28,images/M_Y_WC_L.png,M,Y,W,L,83,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:06 GMT+0000 (GMT),29,images/M_O_WC_L.png,M,O,W,L,9,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:07 GMT+0000 (GMT),30,images/M_Y_WC_L.png,M,Y,W,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:08 GMT+0000 (GMT),31,images/M_O_WC_L.png,M,O,W,L,11,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:09 GMT+0000 (GMT),32,images/M_O_MC_L.png,M,O,M,L,79,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:10 GMT+0000 (GMT),33,images/M_O_WC_L.png,M,O,W,L,17,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:11 GMT+0000 (GMT),34,images/M_O_WC_L.png,M,O,W,L,14,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:12 GMT+0000 (GMT),35,images/M_O_WC_L.png,M,O,W,L,10,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:13 GMT+0000 (GMT),36,images/M_O_WC_L.png,M,O,W,L,19,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:14 GMT+0000 (GMT),37,images/M_O_MC_NL.png,M,O,M,N,15,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:15 GMT+0000 (GMT),38,images/M_Y_WC_L.png,M,Y,W,L,10,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,age,Y,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_Y_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:16 GMT+0000 (GMT),39,images/M_O_MC_L.png,M,O,M,L,4728,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:22 GMT+0000 (GMT),40,images/M_O_WC_L.png,M,O,W,L,48,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:23 GMT+0000 (GMT),41,images/M_O_WC_L.png,M,O,W,L,18,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:24 GMT+0000 (GMT),42,images/M_O_MC_L.png,M,O,M,L,15,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:25 GMT+0000 (GMT),43,images/M_O_MC_L.png,M,O,M,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:26 GMT+0000 (GMT),44,images/M_O_MC_L.png,M,O,M,L,18,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:27 GMT+0000 (GMT),45,images/M_O_MC_L.png,M,O,M,L,12,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:28 GMT+0000 (GMT),46,images/M_O_MC_L.png,M,O,M,L,11,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:29 GMT+0000 (GMT),47,images/M_O_WC_L.png,M,O,W,L,18,images/M_O_MC_L.png,images/M_O_MC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,age,O,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:30 GMT+0000 (GMT),48,images/M_O_MC_L.png,M,O,M,L,14,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:31 GMT+0000 (GMT),49,images/M_O_MC_L.png,M,O,M,L,9,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:32 GMT+0000 (GMT),50,images/M_O_WC_L.png,M,O,W,L,18,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:33 GMT+0000 (GMT),51,images/M_O_MC_L.png,M,O,M,L,13,images/M_Y_MC_L.png,images/M_Y_MC_NL.png,images/M_O_MC_L.png,images/M_O_MC_NL.png,soc,M,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:34 GMT+0000 (GMT),52,images/M_O_MC_NL.png,M,O,M,N,7,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:35 GMT+0000 (GMT),53,images/M_O_MC_NL.png,M,O,M,N,16,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:36 GMT+0000 (GMT),54,images/M_O_WC_L.png,M,O,W,L,12,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:37 GMT+0000 (GMT),55,images/M_O_WC_L.png,M,O,W,L,9,images/M_Y_WC_L.png,images/M_Y_WC_NL.png,images/M_O_WC_L.png,images/M_O_WC_NL.png,soc,W,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_WC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:38 GMT+0000 (GMT),56,images/M_O_MC_NL.png,M,O,M,N,14,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:39 GMT+0000 (GMT),57,images/M_O_MC_NL.png,M,O,M,N,11,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:40 GMT+0000 (GMT),58,images/M_O_MC_NL.png,M,O,M,N,18,images/M_Y_MC_NL.png,images/M_Y_WC_NL.png,images/M_O_MC_NL.png,images/M_O_WC_NL.png,loc,N,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_NL.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,Daniel,Fri Mar 20 2015 20:58:41 GMT+0000 (GMT),59,images/M_O_MC_L.png,M,O,M,L,16,images/M_Y_MC_L.png,images/M_Y_WC_L.png,images/M_O_MC_L.png,images/M_O_WC_L.png,loc,L,Bill_northern_bus_auto_spliced.wav,Bill,AH,UH,images/M_O_MC_L.png,50,50,50,50,Daniel,0,2,Teacher,Teachers
+,undefined,Daniel,0,2,Teacher,Teachers
+
+

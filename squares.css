@@ -1,0 +1,248 @@
+
+ 
+body {
+    width: 700px;
+    display: block;
+    margin: 10px auto;
+}
+#foursquare {
+    background: #F0F0F0;
+    width: 640px;
+    height: auto;
+    margin: auto;
+    padding: 1px;
+    display: block;
+    position: relative;
+    border-radius: 15px;
+}
+    #topleft {
+        background: #747171;
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        display: block;
+        float: center;
+        position:relative;
+        border-radius: 15px;  
+        z-index: -1;  
+    }
+    #topright {
+             background: #747171;
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        display: block;
+        float: left;
+                  position:relative;
+        border-radius: 15px;  
+ z-index: -1;  
+    }
+    #bottomleft {
+        background: #747171;
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        display: block;
+        float: left;
+        clear: left;
+        position:relative;
+        border-radius: 15px;    
+ z-index: -1;  
+    }
+    #bottomright {
+        background: #747171;
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        display: block;
+        float: left;
+              position:relative;
+        border-radius: 15px;    
+ z-index: -1;  
+    }
+ #instructions {
+    border-style: dotted;
+    border-width: 2px;
+        width: 500px;
+        height: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        float: center;
+        border-radius: 15px;    
+        padding-bottom: 10px
+    }
+     #instructions p{font-style: italic;}
+/* form 1 */
+
+    #form1{
+        margin:1em 0;
+        padding-top:10px;
+        background:url(forms/images/form1/form_top.gif) no-repeat 0 0;
+        }
+    #form1 fieldset{
+        margin:0;
+        padding:0;
+        border:none;    
+        float:left;
+        display:inline;
+        width:260px;
+        margin-left:25px;
+        }       
+    #form1 legend{display:none;}    
+    #form1 p{margin:.5em 0;}    
+    #form1 label{display:block;}    
+    #form1 input, #form1 textarea{      
+        width:252px;
+        border:1px solid #ddd;
+        background:#fff url(forms/images/form1/form_input.gif) repeat-x;
+        padding:3px;
+        }       
+    #form1 textarea{
+        height:125px;
+        overflow:auto;
+        }                   
+    #form1 p.submit{
+        clear:both;
+        background:url(forms/images/form1/form_bottom.gif) no-repeat 0 100%;
+        padding:0 25px 20px 25px;
+        margin:0;
+        text-align:center;
+        }   
+    #form1 button{
+        width:150px;
+        height:37px;
+        line-height:37px;       
+        border:none;
+        background:url(forms/images/form1/form_button.gif) no-repeat 0 0;
+        color:#fff;
+        cursor:pointer;
+        text-align:center;
+        }               
+#expinstructions {
+    background: #F0F0F0;
+    width: 640px;
+    height: auto;
+    margin: auto;
+    padding: 1px;
+    display: block;
+    position: absolute;
+    border-radius: 15px;
+}
+#textbox{
+    position: relative; 
+    bottom:0px;
+    width:150px; //min width should give to center the div.
+    padding: 1px;
+    right:25%;
+    left:50%;
+    margin-top:120px;
+    margin-left:-78px;
+    border-width: 5px;
+    border-style: solid;
+   border-radius: 15px;
+   border-color: #00000F;
+     background: #F0F0F0;
+ }
+ #expinstructions p{
+position: absolute;
+    border-radius: 15px; 
+ }
+
+/* // form 1 */
+
+/* debrief page*/
+  #debrief {
+        margin:1em 0;
+        padding-top:10px;
+        background:url(forms/images/form1/form_top.gif) no-repeat 0 0;
+          background-size: 660px 800px;
+        }
+ #debrief input,  #debrief  textarea{      
+        width:300px;
+        border:1px solid #ddd;
+        background:#fff url(forms/images/form1/form_input.gif) repeat-x;
+        padding:3px;
+        }       
+     #debrief  textarea{
+        height:300px;
+        overflow:auto;
+        }                   
+     #debrief p.submit{
+        clear:both;
+        background:url(forms/images/form1/form_bottom.gif) no-repeat 0 0;
+        background-size: 660px 20px;
+        padding:0 25px 20px 25px;
+        margin:0;
+        text-align:center;
+        }   
+       #debrief button{
+        width:150px;
+        height:37px;
+        line-height:10px;       
+        border:none;
+        background:url(forms/images/form1/form_button.gif) no-repeat 0 0;
+        color:#fff;
+        cursor:pointer;
+        text-align:center;
+             margin:auto;
+             display:block;
+             margin-bottom: 25px;
+            margin-top: 25px;
+        }               
+img.edinburgh {
+    display:block;
+ float:left;
+  padding-left:35px;
+  padding-right:85px;
+ }
+ img.york {
+    display:block;
+ float:left;
+ padding-right:100px;
+ }
+ img.esrc {
+    display:block;
+ float:left;
+
+ }
+ h1 {text-align: center;}
+ h2 {text-align: center;}
+/* image ratings */
+#ratingsleft {
+        background: #747171;
+        width: 300px;
+        height: 300px;
+        margin: 5px;
+        display: block;
+        float: left;
+        border-radius: 15px;    
+    }
+#ratings {
+        border-style:dotted;
+        width: 500px;
+        height: 300px;
+        margin-left:80px;
+        display: block;
+        position:relative;
+        float: center;
+        border-radius: 5px;    
+    }
+#ratings p {
+    margin-left: 20px;
+     margin-right: 20px;
+}
+#debrief input {
+    position:relative;
+    display:inline-block;
+    margin-left: 20px;
+     margin-right: 20px;
+}
+#debrief label {
+
+    display: block;
+    margin-left: 10px;
+     margin-right: 10px;
+     margin-top: 10px;
+}
+

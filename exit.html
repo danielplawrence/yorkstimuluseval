@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+ <html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="squares.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+        <script src="exitscript.js"></script>
+        <script type="text/javascript" src="sessvars.js"></script>
+</head>
+ 
+<body>
+
+ <h2>Now please answer the following questions</h2>
+                    
+        <form id="form1">  
+        
+            <fieldset><legend>Contact form</legend>
+                <p class="first">
+                    <label for="name">Please provide your full name</label>
+                    <input type="text" name="name" id="name" size="30" />
+                </p>
+                <p>
+                    <label for="ns">Are you a native speaker of English?</label>
+                     <select name="ns" id="ns">
+                         <option value="0">Please select</option>
+                            <option value="1">I'm a native speaker</option>
+                             <option value="2">I'm a non-native speaker</option>
+                            <option value="3">It's complicated!</option>
+                    </select>
+                </p>  
+                <p>
+                    <label for="nat">Please enter your nationality below:</label>
+                     <input name="nat" id="nat" type="text">
+                </p>  
+                 <p>
+                    <label for="phon">Do you have any formal training in linguistics or phonetics?</label>
+                     <select name="phon" id="phon">
+                         <option value="0">Please select</option>
+                            <option value="1">None at all</option>
+                             <option value="2">I'm a linguist, but not a phonetician</option>
+                            <option value="3">I am studying a degree with a strong phonetic component</option>
+                            <option value="4">I am a PhD student or qualified academic specialising in phonetics</option>
+                    </select>
+                </p>  
+                 <p>
+                    <label for="com">Do you have any other comments about this project or the stimuli you heard?:</label>
+          <textarea id = "myTextArea"
+                    name="com"
+                  rows = "3"
+                  cols = "80"></textarea>
+        </p>
+            
+            </fieldset>
+            <fieldset>                                                                          
+            </fieldset>        
+
+             <p class="submit"><button id="send" type="button">Finish</button></p>         
+                        
+        </form> 
+ 
+</body>
+</html>
