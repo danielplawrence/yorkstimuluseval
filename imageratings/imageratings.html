@@ -11,25 +11,157 @@
 </head>
  
 <body>
-    <h2>Please rate each of the characters using the scales on the right</h2>
+    <h2>Please rate each of the faces using the scales on the right</h2>
 
         <form id="debrief">
         <div class="frame" id="ratingsleft">
         	<img id="topleftimg" src=""></img>
         </div>
         <div class="frame" id="ratings">
-            <label for="age">How old do you think this person is?</label>
-            <input id="age" name="age" type="range"/>
-                        <label for="age">Do you think this person is more likely to have a higher or lower social status?</label>
-            <input class="rating" id="soc" name="soc" type="range"/>
-                        <label for="age">Do you think this person is local?</label>
-            <input class="rating" id="loc" name="loc" type="range"/>
-                        <label for="age">Would you like to have this person as your friend?</label>
-            <input class="rating" id="friend" name="friend" type="range"/>
-                        <label for="age">Do you know many people like this?</label>
-                  <input class="rating" id="net" name="friend" type="range"/>
+            <label for="gender">Would you describe this person as typically male or typically female?</label>
+                        <div style="margin-top:5px;">
+           <label style="float: left; margin:5px;">Typically female</label>
+           <label style="float: right; margin: 5px;">Typically male</label> 
+                  </div>
+           <input id="gender" name="gender" type="range" class="rating" style="float: center; margin-top:30px;"/>
+                        <label for="age">Which age group do you think this person belongs to?</label>
+            <p>         
+          <input type = "radio"
+                 name = "age"
+                 id = "18-25"
+                 value = "18-25"
+                 checked = "checked"
+                 class="radio" />
+          <label for="18-25">18-25</label>
+          <input type = "radio"
+                 name = "age"
+                 id = "26-35"
+                 value = "26-35"
+                 class="radio"/>
+             <label for="26-35">26-35</label><br>
+
+                 <input type = "radio"
+                 name = "age"
+                 id = "36-45"
+                 value = "36-45"
+                  class="radio" />
+         <label for="36-45">36-45</label>
+ 
+          <input type = "radio"
+                 name = "age"
+                 id = "46-55"
+                 value = "46-55"
+                  class="radio" />
+         <label for="46-55">46-55</label><br>
+
+          <input type = "radio"
+                 name = "age"
+                 id = "56-65"
+                 value = "56-65" 
+                  class="radio"/>
+         <label for="56-65" >56-65</label>
+          <input type = "radio"
+                 name = "age"
+                 id = "65+"
+                 value = "65plus" 
+                  class="radio"/>
+            <label for="65+">65+</label>
+        </p>       
+                        <label for="edu">I would guess the person's educational level is:</label>
+                        <p>         
+          <input type = "radio"
+                 name = "edu"
+                 id = "Primary school"
+                 value = "Primary school"
+                 checked = "checked"
+                 class="radio" />
+          <label for="Primary school">Primary school</label><br>
+          <input type = "radio"
+                 name = "edu"
+                 id = "Secondary school"
+                 value = "Secondary school"
+                 class="radio"/>
+             <label for="Secondary school">Secondary school</label><br>
+
+                 <input type = "radio"
+                 name = "edu"
+                 id = "Poly"
+                 value = "Apprenticeship/Vocational training"
+                  class="radio" />
+         <label for="Apprenticeship/Vocational training">Apprenticeship/Vocational training</label><br>
+ 
+          <input type = "radio"
+                 name = "edu"
+                 id = "Undergrad"
+                 value = "Undergraduate degree"
+                  class="radio" />
+         <label for="Undergraduate degree">Undergraduate degree</label><br>
+
+          <input type = "radio"
+                 name = "edu"
+                 id = "Postgraduate/professional degree"
+                 value = "Postgraduate/professional degree" 
+                  class="radio"/>
+         <label for="Postgraduate/professional degree" >Postgraduate/professional degree</label>
+
+        </p>       
+<label for="job">The occupational area I would most expect to find this person in is:</label>
+                        <p>         
+          <input type = "radio"
+                 name = "job"
+                 id = "Unskilled"
+                 value = "Unskilledlab"
+                 checked = "checked"
+                 class="radio" />
+          <label for="Unskilled">Unskilled labourer e.g. cleaner, factory worker</label><br>
+
+          <input type = "radio"
+                 name = "job"
+                 id = "Skilledlab"
+                 value = "Skilledlab"
+                 class="radio"/>
+             <label for="Skilledlab">Skilled labourer e.g. plumber, beauty therapist</label><br>
+
+                 <input type = "radio"
+                 name = "job"
+                 id = "Clerical"
+                 value = "Clerical"
+                  class="radio" />
+         <label for="Clerical">Clerical worker e.g. bookkeeper</label><br>
+ 
+          <input type = "radio"
+                 name = "job"
+                 id = "Manager"
+                 value = "Manager"
+                  class="radio" />
+         <label for="Manager">Manager e.g. business executive</label><br>
+
+          <input type = "radio"
+                 name = "job"
+                 id = "Professional"
+                 value = "Professional" 
+                  class="radio"/>
+         <label for="Professional" >Professional e.g. lawyer</label>
+
+        </p>       
+
+                        <label for="york">Do you think this person looks like a typical person from Yorkshire?</label>
+      <div style="margin-top:5px;">
+           <label style="float: left; margin:5px;">Definitely Yorkshire</label>
+           <label style="float: right; margin: 5px;">Definitely not Yorkshire</label> 
+                  </div>
+           <input id="york" name="york" type="range" class="rating" style="float: center; margin-top:30px;"/>
+
+
+         <label for="attr">Do you think this person is attractive?</label>
+      <div style="margin-top:5px;">
+           <label style="float: left; margin:5px;">Very attractive</label>
+           <label style="float: right; margin: 5px;">Not attractive</label> 
+                  </div>
+           <input id="attr" name="attr" type="range" class="rating" style="float: center; margin-top:30px;"/>
              <button id="next" type="button">Next</button>
         </div>
+
         <p class="submit"></p>
 </form>
 </body>

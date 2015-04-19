@@ -2,13 +2,14 @@
  
 body {
     width: 700px;
+    height:800px;
     display: block;
     margin: 10px auto;
 }
 #foursquare {
     background: #F0F0F0;
-    width: 640px;
-    height: auto;
+    width: 700px;
+    height: 600;
     margin: auto;
     padding: 1px;
     display: block;
@@ -17,8 +18,8 @@ body {
 }
     #topleft {
         background: #747171;
-        width: 300px;
-        height: 300px;
+        width: 350px;
+        height: 600px;
         margin: 10px;
         display: block;
         float: left;
@@ -28,7 +29,7 @@ body {
     }
     #topright {
              background: #747171;
-        width: 300px;
+        width: 350px;
         height: 300px;
         margin: 10px;
         display: block;
@@ -63,8 +64,8 @@ body {
  #instructions {
     border-style: dotted;
     border-width: 2px;
-        width: 500px;
-        height: 200px;
+        width: 700px;
+        height: 400px;
         margin-left: auto;
         margin-right: auto;
         display: block;
@@ -157,22 +158,22 @@ position: absolute;
         margin:1em 0;
         padding-top:10px;
         background:url(forms/images/form1/form_top.gif) no-repeat 0 0;
-          background-size: 660px 800px;
+          background-size: 700px 800px;
         }
- #debrief input,  #debrief  textarea{      
-        width:300px;
+ #debrief input.rating,  #debrief  textarea{      
+        width:200px;
         border:1px solid #ddd;
         background:#fff url(forms/images/form1/form_input.gif) repeat-x;
         padding:3px;
         }       
      #debrief  textarea{
-        height:300px;
+        height:600px;
         overflow:auto;
         }                   
      #debrief p.submit{
         clear:both;
         background:url(forms/images/form1/form_bottom.gif) no-repeat 0 0;
-        background-size: 660px 20px;
+        background-size:700px 20px;
         padding:0 25px 20px 25px;
         margin:0;
         text-align:center;
@@ -207,6 +208,12 @@ img.edinburgh {
  float:left;
 
  }
+ img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+}
  h1 {text-align: center;}
  h2 {text-align: center;}
 /* image ratings */
@@ -221,22 +228,20 @@ img.edinburgh {
     }
 #ratings {
         border-style:dotted;
-        width: 320px;
-        height: 300px;
+        width: 350px;
+        height: 750px;
         margin: 5px;
         display: block;
         float: left;
         border-radius: 5px;    
+        padding:5px;
     }
 
 #debrief input.rating {
     display: block;
+    width:320px;
     margin-left: 10px;
      margin-right: 10px;
      .minLabel
 }
-#debrief label {
-    display: block;
-    margin-left: 10px;
-     margin-right: 10px;
-}
+

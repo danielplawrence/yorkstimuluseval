@@ -1,20 +1,28 @@
 $(document).ready(function() {
-//cycle through entire set of images, display, get ratings, add to array
+
+//php call to get the image names
+var myVariable=""
+get_files();
+exp=function(myVariable){
+    console.log(myVariable)
+    myVariable=myVariable.split(',')
+    images=getjpg(myVariable)
+    console.log(images);
+    var l=images.length;
+    console.log(l);
+                        var imagefiles=[];
+                        for (i=0;i<l;i++){
+                          var path="images/Candidates/"
+                          var name=images[i]
+                          var toLoad=path.concat(name)
+                          var im={number:i,name:toLoad}
+                          console.log(im);
+                          imagefiles.push(im)}
+    console.log(imagefiles)
+    //cycle through entire set of images, display, get ratings, add to array
 ratings=[];
 var currentImage = "";
-var image1 = {number:0,name:"images/M_Y_MC_L.png",age:"Y",gender:"M",soc:"M",loc:"L"};
-var image2 = {number:1,name:"images/M_O_MC_L.png",age:"O",gender:"M",soc:"M",loc:"L"};
-var image3 = {number:2,name:"images/M_Y_WC_L.png",age:"Y",gender:"M",soc:"W",loc:"L"};
-var image4 = {number:3,name:"images/M_O_WC_L.png",age:"O",gender:"M",soc:"W",loc:"L"};
-var image5 = {number:4,name:"images/M_Y_MC_NL.png",age:"Y",gender:"M",soc:"M",loc:"N"};
-var image6 = {number:5,name:"images/M_O_MC_NL.png",age:"O",gender:"M",soc:"M",loc:"N"};
-var image7 = {number:6,name:"images/M_Y_WC_NL.png",age:"Y",gender:"M",soc:"W",loc:"N"};
-var image8 = {number:7,name:"images/M_O_WC_NL.png",age:"O",gender:"M",soc:"W",loc:"N"};
-var images =[image1,image2,image3,image4,image5,image6,image7,image8];
-
-console.log(images);
-images=shuffle(images);
-console.log(images);
+images=shuffle(imagefiles);
 i=0;
 nimages=images.length;
 $("#next").click(function(){
@@ -45,15 +53,16 @@ $("#next").trigger("click");
 
 function logResponse(){
 //get slider values
+var image_gen = $('input[name=gender]').val();
 var image_age = $('input[name=age]').val();
-var image_soc = $('input[name=soc]').val();
-var image_loc = $('input[name=loc]').val();
-var image_rating = $('input[name=age]').val();
-var image_net = $('input[name=net]').val();
+var image_edu = $('input[name=edu]').val();
+var image_job = $('input[name=job]').val();
+var image_york = $('input[name=york]').val();
+var image_attr = $('input[name=attr]').val();
 var file = $("#topleftimg").attr("src")
-return([file,currentImage.age, currentImage.gender, currentImage.soc, currentImage.loc,image_age,image_soc,image_loc,image_rating,image_net]);
+return([file,image_gen,image_age,image_edu,image_job,image_york,image_attr]);
 }
-
+}
 
 //change the image
 function changeImage(target,source){
@@ -80,8 +89,7 @@ function loadAudio(uri)
 
 function isAppLoaded()
 {
-    filesLoaded++;
-    if (filesLoaded >= filesToLoad){console.log("loaded")};
+    console.log("Loaded")
 }
 
 
@@ -107,6 +115,33 @@ function shuffle(array) {
     return array;
 }
 //slider listener
+function getjpg(array){
+   var l=array.length;
+   var out =[];
+   for (var w =0;w<l;w++){
+    if(array[w].indexOf("jpg")>0){
+        var item=array[w].replace('"',"")
+        item=item.replace('"',"")
+        item=item.replace('[',"")
+        item=item.replace(']',"")
+        out.push(item)
+    }
+   }
+   return(out)
+}
 
+function get_files(){
+    $.ajax({
+               type: "GET",
+               url: "http://blake.ling.ed.ac.uk/~s1122689/get_filelist.php",
+               cache: false,
+               success: function(result){
+                     var myVariable=result;
+                    console.log(myVariable)
+                    exp(myVariable);
+                }
+          });
+}
 
 });
+
